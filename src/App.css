@@ -1,0 +1,22 @@
+body {
+    background-color: #fafafa;
+}
+/* .ui.segment{
+    padding-bottom: 0px;
+    margin-bottom: 0px !important;
+} */
+
+.mainContainer {
+    margin: 20px;
+}
+
+.previewArea {
+    width: 100% ;
+    min-height: 70vh ;
+    padding: .78571429em 1em;
+    border: 1px solid rgba(34,36,38,.15);
+    border-radius: .28571429rem;
+    background-color: white;
+    font-size: 1em;
+    line-height: 1.2857;
+}
