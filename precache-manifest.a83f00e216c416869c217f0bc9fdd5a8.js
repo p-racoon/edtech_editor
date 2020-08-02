@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "892572e1c39ffa828ecde994c94cf408",
+    "revision": "314029b47c43eaf69f106ec56bb6d70e",
     "url": "/edtech_editor/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/edtech_editor/static/css/2.472e899d.chunk.css"
   },
   {
-    "revision": "953340865bca551ce595",
-    "url": "/edtech_editor/static/css/main.302ba96f.chunk.css"
+    "revision": "17653c8bb872dd050265",
+    "url": "/edtech_editor/static/css/main.3fe23703.chunk.css"
   },
   {
     "revision": "1370dfd183586474fb60",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/edtech_editor/static/js/2.3c823efa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "953340865bca551ce595",
-    "url": "/edtech_editor/static/js/main.ca600305.chunk.js"
+    "revision": "17653c8bb872dd050265",
+    "url": "/edtech_editor/static/js/main.80d139f5.chunk.js"
   },
   {
     "revision": "7456ebc83d2f8288ea7e",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/edtech_editor/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/edtech_editor/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/edtech_editor/static/media/logo.ee7cd8ed.svg"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",

@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/edtech_editor/static/css/main.302ba96f.chunk.css",
-    "main.js": "/edtech_editor/static/js/main.ca600305.chunk.js",
-    "main.js.map": "/edtech_editor/static/js/main.ca600305.chunk.js.map",
+    "main.css": "/edtech_editor/static/css/main.3fe23703.chunk.css",
+    "main.js": "/edtech_editor/static/js/main.80d139f5.chunk.js",
+    "main.js.map": "/edtech_editor/static/js/main.80d139f5.chunk.js.map",
     "runtime-main.js": "/edtech_editor/static/js/runtime-main.5fb42f06.js",
     "runtime-main.js.map": "/edtech_editor/static/js/runtime-main.5fb42f06.js.map",
     "static/css/2.472e899d.chunk.css": "/edtech_editor/static/css/2.472e899d.chunk.css",
     "static/js/2.3c823efa.chunk.js": "/edtech_editor/static/js/2.3c823efa.chunk.js",
     "static/js/2.3c823efa.chunk.js.map": "/edtech_editor/static/js/2.3c823efa.chunk.js.map",
     "index.html": "/edtech_editor/index.html",
-    "precache-manifest.77b9189f545c629a09bef91825420f04.js": "/edtech_editor/precache-manifest.77b9189f545c629a09bef91825420f04.js",
+    "precache-manifest.a83f00e216c416869c217f0bc9fdd5a8.js": "/edtech_editor/precache-manifest.a83f00e216c416869c217f0bc9fdd5a8.js",
     "service-worker.js": "/edtech_editor/service-worker.js",
     "static/css/2.472e899d.chunk.css.map": "/edtech_editor/static/css/2.472e899d.chunk.css.map",
-    "static/css/main.302ba96f.chunk.css.map": "/edtech_editor/static/css/main.302ba96f.chunk.css.map",
+    "static/css/main.3fe23703.chunk.css.map": "/edtech_editor/static/css/main.3fe23703.chunk.css.map",
     "static/js/2.3c823efa.chunk.js.LICENSE.txt": "/edtech_editor/static/js/2.3c823efa.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/edtech_editor/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/logo.svg": "/edtech_editor/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/edtech_editor/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5fb42f06.js",
     "static/css/2.472e899d.chunk.css",
     "static/js/2.3c823efa.chunk.js",
-    "static/css/main.302ba96f.chunk.css",
-    "static/js/main.ca600305.chunk.js"
+    "static/css/main.3fe23703.chunk.css",
+    "static/js/main.80d139f5.chunk.js"
   ]
 }
